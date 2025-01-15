@@ -115,4 +115,4 @@ Struktur tabel ini digunakan untuk menyimpan status produk:
 | `updated_at` | TIMESTAMP     | Waktu data diperbarui     |
 
 ## Result Sistem
-![Deskripsi Gambar](https://drive.google.com/uc?id=1rRKPoBIAlBRxFyigTE60IJWSyyZ4COil"Tooltip Opsional")
+![Deskripsi Gambar](https://drive.google.com/uc?id=1rRKPoBIAlBRxFyigTE60IJWSyyZ4COil "Tooltip Opsional")
