@@ -1,2 +1,2 @@
 import './bootstrap';
-import './script_crud';
+import './script_test';
